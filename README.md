@@ -1,11 +1,12 @@
-# 🟣 O que é  Cloud Computing?
+# TRILHA DE APRENDIZADO - CLOUD COMPUTING
+## O QUE É  CLOUD COMPUTING?
   Cloud computing, ou computação em nuvem, refere-se à entrega de serviços de computação, como servidores, armazenamento, bancos de dados, redes e software, pela internet. Em vez de manter recursos computacionais localmente em hardware físico ou em um data center local, a computação em nuvem permite acessar e utilizar esses recursos de forma flexível e sob demanda por meio da internet. A computação em nuvem é baseada em uma infraestrutura compartilhada, na qual os recursos são fornecidos e gerenciados por provedores de serviços em nuvem. Esses provedores, como a Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform, possuem data centers com uma grande quantidade de servidores, armazenamento e outros componentes de infraestrutura.
 
-# 🟣 Os profissionais de Cloud Computing
+##  OS PROFISSIONAIS DE CLOUD COMPUTING
 
   Os profissionais de Cloud Computing trabalham em empresas de tecnologia, provedores de serviços em nuvem, empresas de consultoria em tecnologia, departamentos de TI em empresas, startups e empresas de desenvolvimento de software. Eles são responsáveis por projetar, implementar e gerenciar infraestruturas em nuvem, oferecer suporte aos clientes e aproveitar os benefícios da escalabilidade e flexibilidade oferecidas pela computação em nuvem.
 
-# 🟣 Cronograma de estudos
+## CRONOGRAMA DE ESTUDOS
 
 #### Fundamentos de Computação em Nuvem:<br>
 
@@ -67,33 +68,39 @@
 > ◾ Participação em cursos e treinamentos atualizados<br>
 > ◾ Acompanhamento de tendências e avanços em Cloud Computing<br>
 
-# 🟣 Livros<br>
+## CAMPOS DE ESTUDOS <br>
+Redes de Computadores: Estude comunicação em rede, protocolos e segurança.<br>
+Sistemas Distribuídos: Aprenda sobre arquiteturas e desenvolvimento de sistemas distribuídos.<br>
+Segurança da Informação: Adquira conhecimentos sobre ameaças, criptografia e medidas de proteção.<br>
+Bancos de Dados: Compreenda os fundamentos dos sistemas de gerenciamento de bancos de dados.<br>
+Virtualização e Sistemas Operacionais: Familiarize-se com a virtualização e a criação de ambientes em nuvem.<br>
+
+## LIVROS<br>
 [Computação em Nuvem: Computing, Tecnologias e Estratégias](https://www.amazon.com.br/Computa%C3%A7%C3%A3o-Nuvem-Computing-Tecnologias-Estrat%C3%A9gias/dp/8576802074/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WHMCP32XSWDV&keywords=livro+Cloud+Computing&qid=1688673690&sprefix=livro+cloud+computing%2Caps%2C310&sr=8-1).<br>
 [Introdução ao Cloud Computing: Tecnologia, Conceito e Modelos](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Computing-Tecnologia-Conceito-Modelos/dp/972722802X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WHMCP32XSWDV&keywords=livro+Cloud+Computing&qid=1688673756&sprefix=livro+cloud+computing%2Caps%2C310&sr=8-4&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9).<br>
 [Cloud Computing Virtualizado: Gerenciamento, Monitoramento e Segurança](https://www.amazon.com.br/Computing-Virtualizado-Gerenciamento-Monitoramento-Seguran%C3%A7a/dp/8539906848/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WHMCP32XSWDV&keywords=livro+Cloud+Computing&qid=1688673756&sprefix=livro+cloud+computing%2Caps%2C310&sr=8-3).<br>
 [Cloud Computing: Computação em Nuvem - Uma Abordagem Prática](https://www.amazon.com.br/Cloud-Computing-Computa%C3%A7%C3%A3o-Nuvem-Abordagem/dp/8576085364/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WHM)<br>
 
-# 🟣 Cursos gratuitos<br>
+## CURSOS GRATUITOS<br>
 [AWS Training and Certification](https://aws.amazon.com/pt/training/digital/?cta=tctopbanner).<br>
 [Microsoft Learn - Azure Training](https://learn.microsoft.com/pt-br/training/azure/).<br>
 [Google Cloud Training](https://cloud.google.com/learn/training).<br>
 [Programa de cursos integrados Cloud Computing](https://www.coursera.org/specializations/cloud-computing).
 
-# 🟣 Canais do youtube<br>
+##  CANAIS DO YOUTUBE<br>
 [AWS Online Tech Talks](https://www.youtube.com/@AWSOnlineTechTalks).<br>
 [Mundo da Cloud](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz).<br>
 [Cloud Treinamentos](https://www.youtube.com/@CloudTreinamentos)<br>
 [Guilherme Teles](https://www.youtube.com/@GuilhermeTeles)<br>
 
 
-# 🟣 Podcasts <br>
+## PODCASTS  <br>
 [CloudSkills.fm](https://cloudskills.fm/)<br>
 [GCP Podcast](https://www.gcppodcast.com/)<br>
 [Cloudcast Weekly](https://cloudcastmedia.com/)<br>
 [AWS Podcast](https://aws.amazon.com/pt/podcasts/aws-podcast/)
 
-# 🟣 Destaques
-
+## DESTAQUES
 
 #### Aprofunde-se nas principais plataformas de nuvem:
 Dedique tempo para aprender sobre as principais plataformas de nuvem, como AWS, Azure e Google Cloud. Familiarize-se com seus serviços, recursos e ferramentas, e busque obter certificações relacionadas a essas plataformas. Quanto mais profundo for o seu conhecimento sobre as plataformas de nuvem mais populares, melhor será sua base para construir uma carreira sólida em computação em nuvem.<br>
