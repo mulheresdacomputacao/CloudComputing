@@ -69,11 +69,11 @@
 > ◾ Acompanhamento de tendências e avanços em Cloud Computing<br>
 
 ## CAMPOS DE ESTUDOS <br>
-Redes de Computadores: Estude comunicação em rede, protocolos e segurança.<br>
-Sistemas Distribuídos: Aprenda sobre arquiteturas e desenvolvimento de sistemas distribuídos.<br>
-Segurança da Informação: Adquira conhecimentos sobre ameaças, criptografia e medidas de proteção.<br>
-Bancos de Dados: Compreenda os fundamentos dos sistemas de gerenciamento de bancos de dados.<br>
-Virtualização e Sistemas Operacionais: Familiarize-se com a virtualização e a criação de ambientes em nuvem.<br>
+◾ Redes de Computadores: Estude comunicação em rede, protocolos e segurança.<br>
+◾ Sistemas Distribuídos: Aprenda sobre arquiteturas e desenvolvimento de sistemas distribuídos.<br>
+◾ Segurança da Informação: Adquira conhecimentos sobre ameaças, criptografia e medidas de proteção.<br>
+◾ Bancos de Dados: Compreenda os fundamentos dos sistemas de gerenciamento de bancos de dados.<br>
+◾ Virtualização e Sistemas Operacionais: Familiarize-se com a virtualização e a criação de ambientes em nuvem.<br>
 
 ## LIVROS<br>
 [Computação em Nuvem: Computing, Tecnologias e Estratégias](https://www.amazon.com.br/Computa%C3%A7%C3%A3o-Nuvem-Computing-Tecnologias-Estrat%C3%A9gias/dp/8576802074/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WHMCP32XSWDV&keywords=livro+Cloud+Computing&qid=1688673690&sprefix=livro+cloud+computing%2Caps%2C310&sr=8-1).<br>
@@ -102,16 +102,16 @@ Virtualização e Sistemas Operacionais: Familiarize-se com a virtualização e 
 
 ## DESTAQUES
 
-#### Aprofunde-se nas principais plataformas de nuvem:
+#### ◾ Aprofunde-se nas principais plataformas de nuvem:
 Dedique tempo para aprender sobre as principais plataformas de nuvem, como AWS, Azure e Google Cloud. Familiarize-se com seus serviços, recursos e ferramentas, e busque obter certificações relacionadas a essas plataformas. Quanto mais profundo for o seu conhecimento sobre as plataformas de nuvem mais populares, melhor será sua base para construir uma carreira sólida em computação em nuvem.<br>
 
-#### Domine as habilidades de automação e gerenciamento de infraestrutura: 
+#### ◾ Domine as habilidades de automação e gerenciamento de infraestrutura: 
 A computação em nuvem valoriza a automação e a capacidade de gerenciar infraestruturas escaláveis e eficientes. Aprenda a utilizar ferramentas de automação, como Terraform ou AWS CloudFormation, para provisionar e gerenciar recursos em nuvem. Além disso, adquira habilidades em scripting e programação para automatizar tarefas e processos.<br>
 
-#### Mantenha-se atualizado com as tendências e tecnologias emergentes: 
+#### ◾ Mantenha-se atualizado com as tendências e tecnologias emergentes: 
 A área de computação em nuvem está em constante evolução, com o surgimento de novas tecnologias e soluções. Esteja sempre atualizado com as últimas tendências, acompanhe blogs, podcasts, webinars e participe de eventos da indústria para se manter informado sobre as tecnologias emergentes e as melhores práticas do setor.<br>
 
-#### Desenvolva habilidades de resolução de problemas e pensamento analítico:
+#### ◾ Desenvolva habilidades de resolução de problemas e pensamento analítico:
 A computação em nuvem apresenta desafios técnicos complexos que requerem habilidades sólidas de resolução de problemas. Aprimore sua capacidade de identificar e solucionar problemas, seja investigando logs, realizando análises de desempenho ou resolvendo questões de segurança. Desenvolva um pensamento analítico e seja capaz de abordar os problemas de forma sistemática e eficiente.<br>
 
 
